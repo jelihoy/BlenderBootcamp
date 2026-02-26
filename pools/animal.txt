@@ -1,0 +1,34 @@
+Ant
+Axolotl
+Bat
+Bear
+Cat
+Crocodile
+Crow
+Dachshund
+Deer
+Elephant
+Flamingo
+Fox
+Frog
+Gecko
+Goat
+Hammerhead Shark
+Hedgehog
+Horse
+Leopard
+Lion
+Lobster
+Mouse
+Owl
+Penguin
+Pug
+Raccoon
+Rat
+Seahorse
+Snake
+Spider
+Stick Insect
+Turtle
+Wild Boar
+Wolf
